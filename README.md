@@ -1,6 +1,6 @@
 ### Olá, meu nome é Alexson Almeida e estou cursando a faculdade de Engenharia de Software, objetivando tornar-me um desenvolvedor front-end.
 ### <em>Seja bem vindo ao meu perfil!</em>👋
-##
+## 
 
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 Atualmente estou aprendendo desenvolvimento web voltado, por hora, ao front-end. HTML, CSS, TypeScript e React. Além de UI Design.
