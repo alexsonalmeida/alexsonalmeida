@@ -25,3 +25,4 @@
   <img align="center" alt="Alex-Cpp" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
+![Snake animation](https://github.com/alexsonalmeida/alexsonalmeida/blob/output/github-contribution-grid-snake.svg)
