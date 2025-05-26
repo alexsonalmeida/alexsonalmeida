@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Alexson Almeida
+# 👨🏻‍💻 Alexson Almeida
 
 **`Software Engineer | Full-Stack Developer | Information Security Professional`**
 
